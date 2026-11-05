@@ -9,5 +9,5 @@ git config --global user.name "$1"
 git config --global user.email "$2"
 
 echo "Git global configuration updated:"
-echo "Name:  $(git config --global user.name)"
-echo "Email: $(git config --global user.email)"
+echo "Name:  $(joaomcf27)"
+echo "Email: $(joaomcf123@gmail.com)"
